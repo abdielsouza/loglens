@@ -1,0 +1,8 @@
+
+2026-10-21 08:35:12 INFO [api] Server started
+2026-10-21 08:35:13 INFO [api] Request received
+2026-10-21 08:35:14 ERROR [database] Connection timeout
+2026-10-21 08:35:15 ERROR [database] Connection timeout
+2026-10-21 08:35:16 WARN [api] Slow response
+ERROR: Could not load configuration
+Linha em formato desconhecido

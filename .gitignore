@@ -1,0 +1,9 @@
+# Clojure
+
+.clj-kondo/
+.cpcache/
+.lsp/
+
+# Generated files
+
+/*.json
